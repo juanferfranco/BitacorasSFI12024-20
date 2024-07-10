@@ -1,1 +1,1 @@
-# Bitácora de aprendizaje para la Unidad 5: Sistemas de partículas
+# Bitácora de aprendizaje para la Unidad 5: Node.js (el puente entre dispositivos)

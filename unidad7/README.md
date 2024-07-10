@@ -1,1 +1,1 @@
-# Bitácora de aprendizaje para la Unidad 7: Biblioteca de físicas
+# Bitácora de aprendizaje para la Unidad 7: conectando celulares a tu aplicación interactiva
